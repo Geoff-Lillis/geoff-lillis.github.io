@@ -6,7 +6,7 @@ categories: tech
 ---
 ## It's not you, it's the process
 
-![An Augur consults a proposed change](./Augur.png)
+![An Augur consults a proposed change](/Augur.png)
 
 The ancient Romans brought us much - language, roads, cement and politics. One offering less celebrated is augury, a system of divination by which those suitably qualified could compare planned actions against the will of the gods.
 
