@@ -42,4 +42,3 @@ This book came out in 2018. In 2019, ISMS dropped references to CABs. A great nu
 * **Find the biggest growth opportunity.** Which teams consume the most of the CAB's capacity? Are they given the appropriate support to improve their deployment approaches to get to a lower risk rating? Is your internal billing set up to reflect the costs they're incurring to the CAB, and the wider business? Be wary of a situation where a team is choosing between using their budget to fix their deployment issues or sending low quality work to the CAB who'll absorb the risk for free.
 * **Reward good behaviour.** Teams that consistently work to make low risk, repeatable changes should have less paperwork to fill than teams who do not.
 
-Do you see a benefit to CABs that I've missed? Let me know in the comments.
