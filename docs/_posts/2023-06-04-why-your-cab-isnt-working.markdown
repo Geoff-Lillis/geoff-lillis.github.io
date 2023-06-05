@@ -6,6 +6,8 @@ categories: tech
 ---
 ## It's not you, it's the process
 
+![An ancient Roman Augur consults a proposed change](Augur.png)
+
 The ancient Romans brought us much - language, roads, cement and politics. One offering less celebrated is augury, a system of divination by which those suitably qualified could compare planned actions against the will of the gods.
 
 Augurs did this by watching the flight pattern of birds. They used the observed location and plumage to identify divine will and from this they approved or denied proposed changes. They had special hats which they wore for this occasion.
