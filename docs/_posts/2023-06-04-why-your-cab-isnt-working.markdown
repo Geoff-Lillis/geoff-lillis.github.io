@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Why Your CAB Isn't Working"
 date:   2023-06-05 07:35:27 +0100
 categories: tech
