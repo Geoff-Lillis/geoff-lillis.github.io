@@ -22,7 +22,7 @@ title: Kettlebells and Keyboards
 email: geoff.lillis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech, creative writing, alternative text entry devices, and anything else that happens to be on my mind
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "geoff-lillis" # the subpath of your site, e.g. /blog
 url: "https://geoff-lillis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: geoff-lillis
 github_username:  geoff-lillis
