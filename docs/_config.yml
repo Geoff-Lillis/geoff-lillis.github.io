@@ -23,7 +23,7 @@ github_username:  geoff_lillis
 
 # Build settings
 markdown: kramdown
-theme: pages-themes/architect@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
