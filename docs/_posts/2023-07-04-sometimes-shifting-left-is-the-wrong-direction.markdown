@@ -4,7 +4,6 @@ title:  "Sometimes Shifting Left Is The Wrong Direction"
 date:   2023-07-04 07:35:27 +0100
 categories: tech
 ---
-## It's not you, it's the process
 
 ![Fish swimming right against the stream](https://github.com/Geoff-Lillis/geoff-lillis.github.io/blob/main/docs/assets/images/ShiftLeft.jpeg?raw=true)
 Some time ago I worked on an app with a 40 minute integration test cycle. More than ample time to forget what you were working on and why before a red build status let you know that something somewhere in your changeset had broken the build and your teammates would very much appreciate you cancelling your lunch plans to bring things back to a more calming green.
