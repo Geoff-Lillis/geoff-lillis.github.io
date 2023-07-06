@@ -5,7 +5,7 @@ date:   2023-07-04 07:35:27 +0100
 categories: tech
 ---
 
-![Fish swimming right against the stream](https://github.com/Geoff-Lillis/geoff-lillis.github.io/blob/main/docs/assets/images/ShiftLeft.jpeg?raw=true)# When Shifting Left Is The Wrong Direction
+![Fish swimming right against the stream](https://github.com/Geoff-Lillis/geoff-lillis.github.io/blob/main/docs/assets/images/ShiftLeft.jpeg?raw=true) 
 
 Some time ago I worked on an app with a 40 minute integration test cycle. This is more than ample time to forget what you were working on and why. A reminder would come in the form of a red build status, letting you know that something somewhere in your changeset had broken the build and your teammates would very much appreciate you focusing your efforts on restoring a more calming green.
 
