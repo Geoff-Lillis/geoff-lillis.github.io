@@ -7,6 +7,9 @@ categories: writing
 
 # Repossession
 
+
+![Photo by Anton Imbro](https://github.com/Geoff-Lillis/geoff-lillis.github.io/blob/main/docs/assets/images/car.jpg?raw=true)
+
 Jack returned to the living room with a tray. Stale biscuits. Mismatched mugs and instant coffee. Sugar, bagged, but no milk. "I haven't entertained much lately." He spoke closer to gruffness than apology.
 
 "This is great," Claire said, reaching for a biscuit, "and I'm really grateful for the towel."
